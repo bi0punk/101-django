@@ -6,17 +6,17 @@
     "db_user": "",
     "dbms": "1",
     "description": "generated product",
-    "design": "test-design",
+    "design": "datta-able",
     "docker": "1",
     "err_code": 0,
     "frontend": "",
     "heroku": "0",
     "pattern": "mvc",
     "pro": "0",
-    "task_id": "97c0440a-1b12-4c6a-a66f-a59a85e9c3c3",
+    "task_id": "763af95c-a3fa-43a6-b210-28b5f35f8e26",
     "task_info": "Task is running",
     "task_result": "SUCCESS",
     "task_state": "RUNNING",
-    "task_ts_end": "2023-08-01-20-51-40",
-    "task_ts_start": "2023-08-01-20-51-40"
+    "task_ts_end": "2023-11-02-18-55-31",
+    "task_ts_start": "2023-11-02-18-55-31"
 }
